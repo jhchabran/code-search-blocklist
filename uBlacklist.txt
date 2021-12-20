@@ -27,3 +27,10 @@
 *://stackoverrun.com*
 *://thetopsites.net*
 *://ubuntugeeks.com*
+*://*.cyberciti.biz/*
+*://*.ispycode.com/*
+*://*.reposhub.com/*
+*://*.githubmemory.com/*
+*://*.issueexplorer.com/*
+*://*.tabnine.com/*
+*://*.gitcode.net/*

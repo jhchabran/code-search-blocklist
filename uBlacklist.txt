@@ -34,4 +34,4 @@
 *://*.issueexplorer.com/*
 *://*.tabnine.com/*
 *://*.gitcode.net/*
-*://*.command-not-found/*
+*://*.command-not-found.com/*

@@ -3,7 +3,6 @@
 *://*.geeksforgeeks.org/*
 *://*.stackshare.io/*
 *://*.tutorialspoint.com/*
-*://*.w3schools.com/*
 *://*.answeright.com/*
 *://*.askdev.info/*
 *://*.askdev.io/*

@@ -18,7 +18,7 @@
 *://*.javaer101.com/*
 *://*.programmerstart.com/*
 *://*.programmersought.com/*
-*://*.qastack.com/*
+*://*.qastack.com*
 *://*.roboflow.ai/*
 *://*.stackanswers.net/*
 *://*.stackoom.com/*

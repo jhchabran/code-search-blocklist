@@ -35,3 +35,4 @@
 *://*.tabnine.com/*
 *://*.gitcode.net/*
 *://*.command-not-found.com/*
+*://*.hotexamples.com/*

@@ -11,7 +11,7 @@
 *://*.code-examples.net/*
 *://*.codegrepper.com/*
 *://*.codeflow.site/*
-*://*.gitmemory.cn*
+*://*.gitmemory.cn/*
 *://*.gitmemory.com/*
 *://*.intellipaat.com/*
 *://*.javaer101.com/*

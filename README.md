@@ -1,4 +1,4 @@
-# code-search-blacklist
+# code-search-blocklist
 
 A list of domains hosting scrapped code snippets and polluting search results to block. 
 

@@ -37,3 +37,5 @@
 *://*.command-not-found.com/*
 *://*.im-coder.com/*
 *://*.i-harness.com/*
+*://*.hotexamples.com/*
+*://*.findbestopensource.com/*

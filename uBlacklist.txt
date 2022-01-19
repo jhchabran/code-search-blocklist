@@ -36,3 +36,4 @@
 *://*.gitcode.net/*
 *://*.command-not-found.com/*
 *://*.hotexamples.com/*
+*://*.findbestopensource.com/*
